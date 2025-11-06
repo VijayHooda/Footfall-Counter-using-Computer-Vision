@@ -12,7 +12,7 @@ The system uses:
 - A **virtual horizontal line** as the Region of Interest (ROI).
 - Counts people crossing the line in both directions.
 
----
+--- Video Link - https://www.youtube.com/watch?v=gAuJlwnUqMs
 
 ## 🧩 Tools & Libraries
 - Python ≥ 3.8  
