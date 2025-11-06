@@ -48,5 +48,5 @@ The downloaded video was renamed as `test_video.mp4` and used as the input datas
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/<your-username>/Footfall-Counter-using-Computer-Vision.git
+git clone https://github.com/VijayHooda/Footfall-Counter-using-Computer-Vision.git
 cd Footfall-Counter-using-Computer-Vision
